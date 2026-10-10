@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Mahesh K',
+  name: 'prasanna P',
   title: 'Full Stack Developer (MERN) | SaaS Builder',
   impactStatement: 'I build and deploy production-grade web applications end-to-end.',
   heroTags: [
